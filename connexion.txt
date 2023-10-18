@@ -1,1 +1,1 @@
-Feature de connexion
+Fonctionnalité de connexion
